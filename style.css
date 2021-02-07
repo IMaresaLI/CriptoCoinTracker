@@ -1,0 +1,109 @@
+#btcCurrentPrice{
+    color: white;
+    border-image: url("icons/natural.png");
+}
+#btcPrice{
+    color: white;
+    border-image: url("icons/natural.png");
+}
+#BtcLowPrice{
+    color: white;
+    border-image: url("icons/natural.png");
+}
+#btcHighPrice{
+    color: white;
+    border-image: url("icons/natural.png");
+}
+#dogeCurrentPrice{
+    color: white;
+    border-image: url("icons/natural.png");
+}
+#dogePrice{
+    color: white;
+    border-image: url("icons/natural.png");
+}
+#dogeLowPrice{
+    color: white;
+    border-image: url("icons/natural.png");
+}
+#dogeHighPrice{
+    color: white;
+    border-image: url("icons/natural.png");
+}
+#xrpCurrentPrice{
+    color: white;
+    border-image: url("icons/natural.png");
+}
+#xrpPrice{
+    color: white;
+    border-image: url("icons/natural.png");
+}
+#xrpLowPrice{
+    color: white;
+    border-image: url("icons/natural.png");
+}
+#xrpHighPrice{
+    color: white;
+    border-image: url("icons/natural.png");
+}
+#btcLogo{
+    image:url("icons/BtcAna.png")
+}
+#dogeLogo{
+    image:url("icons/doge.png")
+}
+#xrpLogo{
+    image:url("icons/xrp.png")
+}
+
+#settingBtn{
+    background-color: transparent;
+    border: none;
+    background: none;
+    background-repeat: no-repeat;
+    border-image: url("icons/settingIcon.png");
+}
+#settingBtn:pressed{
+    border-image: url("icons/settingIconHover.png");}
+
+
+#exitBtn{
+    background-color: transparent;
+    border: none;
+    background: none;
+    background-repeat: no-repeat;
+    border-image: url("icons/exitIcon.png");
+}
+#exitBtn:pressed{
+    border-image: url("icons/exitIconHover.png");
+}
+
+#minimizeBtn{
+    background-color: transparent;
+    border: none;
+    background: none;
+    background-repeat: no-repeat;
+    border-image: url("icons/minimizeIcon.png");
+}
+#minimizeBtn:pressed{
+    border-image: url("icons/minimizeIconHover.png");
+}
+
+#pushButton{
+    background-color: transparent;
+    border: none;
+    background: none;
+    background-repeat: no-repeat;
+    border-image: url("icons/icons8-save-close-48.png");
+}
+#pushButton_2{
+    background-color: transparent;
+    border: none;
+    background: none;
+    background-repeat: no-repeat;
+    border-image: url("icons/cancel.png");
+}
+
+#logoLbl{
+    image:url("icons/marelogo.ico")
+}
